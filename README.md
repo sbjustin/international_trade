@@ -1,4 +1,4 @@
-international_trade
+International Trade
 ===================
 
 Response to http://www.puzzlenode.com/puzzles/1-international-trade
